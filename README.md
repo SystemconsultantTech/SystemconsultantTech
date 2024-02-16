@@ -27,7 +27,7 @@
 Explore more about us at [SystemConsultant.io](https://SystemConsultant.io) and join our community! Let's build a future together where open source and small businesses thrive side by side. 🌍💼
 Let's build the future of data-driven applications together! 🚀
 
-- 👨‍💻 All of my projects are available at [https://github.com/System Consultant](https://github.com/System Consultant)
+- 👨‍💻 All of my projects are available at [https://github.com/SystemconsultantTech](https://github.com/SystemconsultantTech)
 
 - 📫 How to reach me **contact@systemconsultant.io**
 
