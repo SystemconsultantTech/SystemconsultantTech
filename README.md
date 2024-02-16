@@ -23,7 +23,7 @@
   [Medium](https://medium.com/@System Consultant)
 
 
-#### Connect With Me:
+#### Connect With Us:
 Explore more about us at [SystemConsultant.io](https://SystemConsultant.io) and join our community! Let's build a future together where open source and small businesses thrive side by side. 🌍💼
 Let's build the future of data-driven applications together! 🚀
 
